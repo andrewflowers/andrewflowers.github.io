@@ -8,4 +8,4 @@ permalink: /about/
 
 Hello, my name is Andrew Flowers. I'm a journalist and data scientist. My writing appears at [FiveThirtyEight](fivethiryteight.com). 
 
-Here is my ![resume](/assets/Andrew_Flowers_Resume.pdf).
+Here is my ![resume](/assets/Andrew_Flowers_Resume.pdf) 
