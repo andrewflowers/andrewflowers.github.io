@@ -1,12 +1,17 @@
+---
+layout: default
+---
+
+
 ![](/assets/andrewflowers_light.jpg)
 
 Hello, my name is Andrew Flowers. I'm a journalist and data scientist. 
 
 My writing appears at [FiveThirtyEight](http://fivethirtyeight.com). You can find read my stories [here](http://fivethirtyeight.com/contributors/andrew-flowers/) or check out my code [here](http://github.com/andrewflowers).
 
-My [resume](/assets/Andrew_Flowers_Resume.pdf).
+Here is my [resume](/assets/Andrew_Flowers_Resume.pdf).
 
-Here is a selection of my best writing at FiveThirtyEight:
+Below is a selection of my best writing published at FiveThirtyEight:
 
 * [What Would Happen If We Just Gave People Money?](http://fivethirtyeight.com/features/universal-basic-income/)
 * [Where Trump Got His Edge](http://fivethirtyeight.com/features/where-trump-got-his-edge/)
