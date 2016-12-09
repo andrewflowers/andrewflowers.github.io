@@ -1,7 +1,6 @@
 ---
-layout: default
----
 
+---
 
 ![](/assets/andrewflowers_light.jpg)
 
