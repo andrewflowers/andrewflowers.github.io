@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![](/assets/andrewflowers_light.jpg)
 
 Hello, my name is Andrew Flowers. I'm a journalist and data scientist. 
