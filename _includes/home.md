@@ -6,7 +6,7 @@
 
 Hello, my name is Andrew Flowers. I'm a journalist and data scientist. 
 
-My writing appears at [FiveThirtyEight](http://fivethirtyeight.com). You can find read my stories [here](http://fivethirtyeight.com/contributors/andrew-flowers/) or check out my code [here](http://github.com/andrewflowers).
+I am a former writer for [FiveThirtyEight](http://fivethirtyeight.com). You can find read my FiveThirtyEight stories [here](http://fivethirtyeight.com/contributors/andrew-flowers/). You can check out my code [here](http://github.com/andrewflowers).
 
 Here is my [resume](/assets/Andrew_Flowers_Resume.pdf).
 

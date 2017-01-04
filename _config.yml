@@ -8,7 +8,7 @@
 # Site settings
 title: Andrew Flowers
 email: andrew.w.flowers@gmail.com
-description: Andrew Flowers is a journalist and data scientist. His writing appears at FiveThirtyEight.
+description: Andrew Flowers is a journalist and data scientist. His writing has appeared at FiveThirtyEight.
 # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
