@@ -6,9 +6,11 @@ layout: default
 
 Hello, my name is Andrew Flowers. I'm a freelance journalist and data scientist. 
 
-I am a former writer for [FiveThirtyEight](http://fivethirtyeight.com). You can find read my FiveThirtyEight stories [here](http://fivethirtyeight.com/contributors/andrew-flowers/). 
+Formerly, I was the quantitative editor and, later, an economics writer for [FiveThirtyEight](http://fivethirtyeight.com). 
 
-You can check out my code [here](http://github.com/andrewflowers).
+Read my FiveThirtyEight stories [here](http://fivethirtyeight.com/contributors/andrew-flowers/). 
+
+View my code [here](http://github.com/andrewflowers).
 
 Here is my [resume](/assets/Andrew_Flowers_Resume.pdf).
 
