@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Andrew's Blog
+title: Blog
 ---
