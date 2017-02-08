@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](/assets/andrewflowers_light.jpg)
+![](/assets/ANDREWFLOWERS_fivethirtyeight_headshot.jpeg)
 
 Hello, my name is Andrew Flowers. I'm a freelance journalist and data scientist. 
 
