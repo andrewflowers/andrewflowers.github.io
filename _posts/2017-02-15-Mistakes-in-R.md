@@ -14,6 +14,7 @@ The target audience is all R coders, from those just starting out all the way to
 It's an exciting project, but I need your help. **What are your “favorite” R mistakes?**
 
 I’m looking for all types, ranging from the dead-simple, beginner-level screwups to the subtle, advanced bugs you’ve encountered. Here are a few examples of mistakes I plan to address:
+
 - Function masking due to conflicting pacakges (e.g., dplyr and plyr)
 - Repeatedly typing `stringsAsFactors = FALSE`
 - Liberal use of piping (`%>%`) to improve code readability
