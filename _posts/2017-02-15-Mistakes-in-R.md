@@ -13,12 +13,12 @@ I’m excited about this project! But I need your help. **What are your “favor
 
 Here are a few examples of mistakes I plan to address, but I’m looking for ally types -- ranging from the dead-simple, beginner-level screwups to the subtle, advanced bugs you’ve encountered:
 
-	* Function masking (e.g., dplyr and plyr) and how to fix it
-	* Repeatedly typing `stringsAsFactors = FALSE`
-	* Liberal use of piping (`%>%`) to improve code readability
-	* How the default `table()` function masks NA values
-	* Using the `broom` package to standardize the output of statistical models
-	* Not using GitHub and/or RStudio Projects for collaboration
+- Function masking (e.g., dplyr and plyr) and how to fix it
+- Repeatedly typing `stringsAsFactors = FALSE`
+- Liberal use of piping (`%>%`) to improve code readability
+- How the default `table()` function masks NA values
+- Using the `broom` package to standardize the output of statistical models
+- Not using GitHub and/or RStudio Projects for collaboration
 
 Send them to me, via [email](mailto:andrew.w.flowers@gmail.com), a [GitHub pull request](https://github.com/andrewflowers) or on [Twitter](https://twitter.com/andrewflowers). The more the merrier. Feel free to contact me multiple times, as you recall your “favorite” R mistakes. 
 
