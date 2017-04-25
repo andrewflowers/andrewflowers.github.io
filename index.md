@@ -4,7 +4,7 @@ layout: default
 
 ![](/assets/ANDREWFLOWERS_fivethirtyeight_headshot.jpeg)
 
-Hello, my name is Andrew Flowers. I'm an economist at [Indeed](https://www.indeed.com/), the world's #1 jobs site. 
+Hello, my name is Andrew Flowers. I'm an economist at [Indeed](https://www.indeed.com/), the world's #1 job site. 
 
 Before that, I was the quantitative editor and an economics writer for [FiveThirtyEight](http://fivethirtyeight.com). 
 
