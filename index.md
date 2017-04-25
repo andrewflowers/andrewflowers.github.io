@@ -4,15 +4,13 @@ layout: default
 
 ![](/assets/ANDREWFLOWERS_fivethirtyeight_headshot.jpeg)
 
-Hello, my name is Andrew Flowers. I'm a freelance journalist and data scientist. 
+Hello, my name is Andrew Flowers. I'm an economist at [Indeed](https://www.indeed.com/), the world's #1 jobs site. 
 
-Formerly, I was the quantitative editor and, later, an economics writer for [FiveThirtyEight](http://fivethirtyeight.com). 
+Before that, I was the quantitative editor and an economics writer for [FiveThirtyEight](http://fivethirtyeight.com). 
 
 Read my FiveThirtyEight stories [here](http://fivethirtyeight.com/contributors/andrew-flowers/). 
 
-View my code [here](http://github.com/andrewflowers).
-
-Here is my [resume](/assets/Andrew_Flowers_Resume_edited.pdf).
+Follow me on GitHub [here](http://github.com/andrewflowers).
 
 Below is a selection of my best writing published at FiveThirtyEight:
 
