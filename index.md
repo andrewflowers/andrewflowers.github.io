@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](/assets/arms-crossed-large.jpeg)
+![](./assets/arms-crossed-large.jpg)
 
 Hello, my name is Andrew Flowers. I'm an economist at [Indeed](https://www.indeed.com/), the world's #1 job site. 
 
