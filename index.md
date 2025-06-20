@@ -2,23 +2,32 @@
 layout: default
 ---
 
-![](./assets/arms-crossed-large.jpg)
+![Andrew Flowers](./assets/ANDREWFLOWERS_fivethirtyeight_headshot.jpeg)
 
-Hello, my name is Andrew Flowers. I'm an economist at [Indeed](https://www.indeed.com/), the world's #1 job site. 
+## About
 
-Before that, I was the quantitative editor and an economics writer for [FiveThirtyEight](http://fivethirtyeight.com). 
+I am Andrew Flowers, Chief Economist at [Appcast](https://www.appcast.io) and Director of [Recruitonomics](https://recruitonomics.com). I previously served as an economist with [Indeed's Hiring Lab](https://www.hiringlab.org) and as a quantitative editor and writer for [FiveThirtyEight](https://fivethirtyeight.com).
 
-Read my FiveThirtyEight stories [here](http://fivethirtyeight.com/contributors/andrew-flowers/). 
+Find me on [GitHub](https://github.com/andrewflowers).
 
-Follow me on GitHub [here](http://github.com/andrewflowers).
+## Writing
 
-Below is a selection of my best writing published at FiveThirtyEight:
+### Recruitonomics
+- [Job Growth is Treading Water ](https://recruitonomics.com/job-growth-is-treading-water/)
+- [Is this the Calm Before the Tariff Storm? ](https://recruitonomics.com/is-this-the-calm-before-the-tariff-storm/)
+- [The Past, Present, and Future of the US Labor Market](https://recruitonomics.com/the-past-present-and-future-of-the-us-labor-market/)
+- [Is This September Report the October Surprise? ](https://recruitonomics.com/is-the-september-report-the-october-surprise/)
+- [August Jobs Report Leaves Fed with a Coin Flip ](https://recruitonomics.com/august-jobs-report-leaves-fed-with-a-coin-flip/)
 
-* [What Would Happen If We Just Gave People Money?](http://fivethirtyeight.com/features/universal-basic-income/)
-* [How We Undercounted Evictions By Asking The Wrong Questions](https://fivethirtyeight.com/features/how-we-undercounted-evictions-by-asking-the-wrong-questions/)
-* [Where Trump Got His Edge](http://fivethirtyeight.com/features/where-trump-got-his-edge/)
-* [The National Parks Have Never Been More Popular](http://fivethirtyeight.com/features/the-national-parks-have-never-been-more-popular/)
-* [Why Critics Of Free Trade Are Talking China, Not NAFTA](http://fivethirtyeight.com/features/why-critics-of-free-trade-are-talking-china-not-nafta/)
-* [Marco Rubio’s Paid Family Leave Plan May Not Work](http://fivethirtyeight.com/features/marco-rubios-paid-family-leave-plan-may-not-work/)
-* [Why Isn’t Anyone Talking About The Deficit Anymore?](http://fivethirtyeight.com/features/why-isnt-anyone-talking-about-the-deficit-anymore/)
+### FiveThirtyEight
+- [Where Trump Got His Edge](https://fivethirtyeight.com/features/where-trump-got-his-edge/)
+- [Trump And Clinton Both Want To Fix Infrastructure. But That Doesn&#8217;t Mean They&#8217;ll Succeed.](https://fivethirtyeight.com/features/trump-and-clinton-both-want-to-fix-infrastructure-but-that-doesnt-mean-theyll-succeed/)
+- [Obama Hasn&#8217;t Given Up On The TPP](https://fivethirtyeight.com/features/obama-hasnt-given-up-on-the-tpp/)
+- [Your Final Debate Briefing Book: The Policies](https://fivethirtyeight.com/features/your-debate-briefing-book-the-policies/)
+- [Why So Many Poor Americans Don’t Get Help Paying For Housing](https://fivethirtyeight.com/features/why-so-many-poor-americans-dont-get-help-paying-for-housing/)
 
+### Indeed Hiring Lab
+- [Interest in Warehousing Jobs Growing Quickly]( https://www.hiringlab.org/2017/12/13/warehousing-jobs-older-workers/)
+- [Timing Matters In the Job Search]( https://www.hiringlab.org/2017/06/27/timing-matters-in-the-job-search/)
+
+For more articles, see my [FiveThirtyEight author page](https://fivethirtyeight.com/contributors/andrew-flowers/), [Recruitonomics author page](https://recruitonomics.com/author/andrewflowers), and the [Hiring Lab site](https://www.hiringlab.org/?s=Andrew+Flowers).
