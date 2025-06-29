@@ -2,11 +2,11 @@
 layout: default
 ---
 
-![Andrew Flowers](./assets/ANDREWFLOWERS_fivethirtyeight_headshot.jpeg)
+![Andrew Flowers](./assets/Andrew_Flowers_headshot_crop.jpg)
 
 ## About
 
-I am Andrew Flowers, Chief Economist at [Appcast](https://www.appcast.io) and Director of [Recruitonomics](https://recruitonomics.com). I previously served as an economist with [Indeed's Hiring Lab](https://www.hiringlab.org) and as a quantitative editor and writer for [FiveThirtyEight](https://fivethirtyeight.com).
+I am Andrew Flowers, Chief Economist at [Appcast](https://www.appcast.io) and Director of [Recruitonomics](https://recruitonomics.com). I previously served as an economist with [Indeed's Hiring Lab](https://www.hiringlab.org) and as a quantitative editor and writer for [FiveThirtyEight](https://fivethirtyeight.com). 
 
 Find me on [GitHub](https://github.com/andrewflowers).
 
